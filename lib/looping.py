@@ -9,7 +9,10 @@ def happy_new_year():
         i -= 1
         #print message after countdown
     print("Happy New Year!")
+#call the fn 
 happy_new_year()
+
+
 def square_integers(int_list):
     # code goes here!
     pass
